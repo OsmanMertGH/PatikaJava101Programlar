@@ -1,7 +1,7 @@
-package Main;
+package NotOrtalamaHesaplama;
 import java.util.Scanner;
 
-public class Main {
+public class NotOrtalamaHesaplama {
     public static void main(String[] args) {
        int MatN,FizikN,KimyaN,TurkceN,TarihN,MuzikN;
        Scanner inp=new Scanner(System.in);
